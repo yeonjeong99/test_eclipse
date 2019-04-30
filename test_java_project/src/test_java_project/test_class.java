@@ -4,6 +4,6 @@ public class test_class {
 	
 	public static void name(String[] args) {
 		System.out.println("hello world~! hotfix!");
-		System.out.println("i'm the hotfix");
+		System.out.println("i'm the hotfix~!");
 	}
 }
